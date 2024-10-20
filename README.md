@@ -13,7 +13,6 @@
 ![iPhone-13-PRO-localhost](https://github.com/user-attachments/assets/d8ac22ab-9911-4239-a899-3a784326ff18)
 ![iPhone-13-PRO-localhost (1)](https://github.com/user-attachments/assets/99fbfff0-4e8d-4fa6-a40d-3ba992ac0004)
 
-
 ## Features ✨
 
 - **Responsive Design**: Optimized for all devices, from small phones to tablets and desktops.
@@ -108,7 +107,7 @@ Coffee_Cafe/
 
 ## Live Preview 🌐
 
-You can check out the live version of **Coffee Cafe** at: [Coffee Cafe Live](https://your-live-link)
+You can check out the live version of **Coffee Cafe** at: [Coffee Cafe Live](https://coffee-cafe-react.netlify.app/)
 
 ## Contact 📬
 
